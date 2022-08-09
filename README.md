@@ -8,7 +8,7 @@
 
 ## About
 
-- This repository consists of all the .Subject projects done with [ALX ] Full stack Software Engineering course in partnership with (https://www.holbertonschool.com/) by [shalomtash].
+- This repository consists of all the .Subject projects done with [ALX ] Full stack Software Engineering course in partnership with (https://www.holbertonschool.com/) by [`shalomtash`].
 
 ---
 
